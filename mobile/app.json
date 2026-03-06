@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "工计宝",
+    "slug": "workcount",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1976D2",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.workcount.app"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "974b9960-076a-41f7-87ed-56c92671f6cd"
+      }
+    },
+    "owner": "wiseflownext"
+  }
+}
